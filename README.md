@@ -1,3 +1,5 @@
+Note: This is a clone to preserve the state from January 2023, to avoid future and constant breaking when pulling this repository into projects on  Google Colab, etc.
+
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
