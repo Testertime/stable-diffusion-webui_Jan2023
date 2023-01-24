@@ -149,6 +149,6 @@
     "ui_reorder": "inpaint, sampler, dimensions, cfg, seed, checkboxes, hires_fix, batch, scripts",
     "live_previews_enable": false,
     "live_preview_content": "Prompt",
-    "live_preview_refresh_period": 1000.0,
+    "live_preview_refresh_period": 200.0,
     "always_discard_next_to_last_sigma": false
 }
