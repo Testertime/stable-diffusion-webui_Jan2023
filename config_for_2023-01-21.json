@@ -102,7 +102,7 @@
     "js_modal_lightbox": true,
     "js_modal_lightbox_initially_zoomed": true,
     "show_progress_in_title": true,
-    "quicksettings": "sd_model_checkpoint",
+    "quicksettings": "sd_model_checkpoint, sd_vae, CLIP_stop_at_last_layers, img2img_color_correction, inpainting_mask_weight",
     "localization": "None",
     "hide_samplers": [],
     "eta_ddim": 0.0,
