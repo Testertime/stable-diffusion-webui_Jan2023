@@ -88,7 +88,7 @@
     "deepbooru_escape": true,
     "deepbooru_filter_tags": "",
     "show_progressbar": true,
-    "show_progress_every_n_steps": 1,
+    "show_progress_every_n_steps": 0,
     "show_progress_type": "Approx cheap",
     "show_progress_grid": true,
     "return_grid": true,
@@ -147,7 +147,7 @@
     "samplers_in_dropdown": true,
     "dimensions_and_batch_together": true,
     "ui_reorder": "inpaint, sampler, dimensions, cfg, seed, checkboxes, hires_fix, batch, scripts",
-    "live_previews_enable": false,
+    "live_previews_enable": true,
     "live_preview_content": "Prompt",
     "live_preview_refresh_period": 200.0,
     "always_discard_next_to_last_sigma": false
